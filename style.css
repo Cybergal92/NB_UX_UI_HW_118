@@ -66,6 +66,9 @@ body {
        align-items: center;
        gap: 15px;
      }
+     .circle-image{
+        border-radius: 50%;
+     }
  .work-grid {
    display: grid;
    row-gap: 50px;
